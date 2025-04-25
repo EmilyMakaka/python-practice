@@ -1,5 +1,5 @@
 # A function that computes factorial using loop
-def factorial_using_loop(n):
+def factorial_using_loop(i):
  # initial value
   result = 1
  # for loop handling the increment of i
