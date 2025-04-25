@@ -5,4 +5,4 @@ def recursive_factorial(i):
     return 1
   # Recursive case if 'i' is greater than 1 
   else:
-    return i * recursive_factorial(n-1)
+    return i * recursive_factorial(i-1)
