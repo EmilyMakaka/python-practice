@@ -4,5 +4,5 @@ def even_or_odd(number):
 #if it is divisible by 2 with no reminder it is even
 if number % 2 == 0:
    return "Even"
-else: # oterwise it is odd
+else: # otherwise it is odd
   return "Odd"
